@@ -1,0 +1,84 @@
+Categoria:Novelas
+Nombre:3RTVPaket
+=================================
+lema:Traemos el Mundo a su Casa
+Sobre_Nosotros_l1:Somos un grupo dedicados a toda informacion audiovisual, recreativa y educativa para que puedan disfrutarlo en su tiempo libre
+Caracteristica_1:Rapido
+Caracteristica_2:Eficaz
+Caracteristica_3:Confianza
+Sobre_Nosotros_l2:Trabajamos pensando en ustedes
+=================================
+Total_Doramas:575
+Total_Novelas:1238
+Total_Series:968
+Total_Animes:1578
+=================================
+Info_corta_Servicios:Prestamos ademas variedad de servicios
+Servicio_1:Pakete Semanal para Negocio
+Info_Servicio_1:Entrega de Pakete semanal para su negocio con mas de 4T
+Servicio_2:Pakete Semanal para consumo
+Info_Servicio_2:Entrega de Pakete semanal a domicilio de 2T
+Servicio_3:Audiovisuales a Domicilio
+Info_Servicio_3:Copia de Audiovisuales por pedido a domicilio
+Servicio_4:Reparacion de Celulares
+Info_Servicio_4:Reparamos su celular Software-Hardware
+Servicio_5:Reinstalacion de PC
+Info_Servicio_5:Reinstalamos Window10,8,7, con sus softwares basicos actualizados
+Servicio_6:Creacion de Catalogos PDf-WEB
+Info_Servicio_6:Cremos catalogos en su formato PDF y una WEB
+==================================
+llamada_accion:Haga Su Pedido
+llada_accion_info:LLame ahora
+==================================
+pricing_info:Servicios Destacados
+Titulo_precio_1:Catalogo PDF
+Precio_1:5
+Tiempo_1:serie/novela
+Info_servicio_1_0:Busqueda de la info
+Info_servicio_1_1:Busqueda de Fotos
+Info_servicio_1_2:Creacion en PDF
+Info_servicio_1_3:Pagina WEB Catalogo
+Info_servicio_1_4:Pagina WEB Catalogo/Negocio
+--------------------------------------------
+Titulo_precio_2:Catalogo WEB
+Precio_2:8
+Tiempo_2:serie/novela
+Info_servicio_2_0:Busqueda de la info
+Info_servicio_2_1:Busqueda de Fotos
+Info_servicio_2_2:Creacion en PDF
+Info_servicio_2_3:Pagina WEB Catalogo
+Info_servicio_2_4:Pagina WEB Catalogo/Negocio
+---------------------------------------------
+Titulo_precio_3:Catalogo WEB-Negocio
+Precio_3:10
+Tiempo_3:serie/novela
+Info_servicio_3_0:Busqueda de la info
+Info_servicio_3_1:Busqueda de Fotos
+Info_servicio_3_2:Creacion en PDF
+Info_servicio_3_3:Pagina WEB Catalogo
+Info_servicio_3_4:Pagina WEB Catalogo/Negocio
+=============================================
+preguntas_freq_info:Respuesta a preguntas frecuentes
+pregunta_1:Las entregas de audiovisuales son el mismo dia?
+respuesta_1:Son de un dia para otro
+pregunta_2:En caso de que no vea lo que busco?
+respuesta_2:Contactenos y nosotros revisamos en las cosas nuevas que entran cada semana
+pregunta_3:En que traen la informacion?
+respuesta_3:la informacion la llevamos en una Memoria USB o Disco Duro
+pregunta_4:Puedo ir a buscar el pedido?
+respuesta_4:Si claro puede ir a buscar el pedido a Nuestro taller
+pregunta_5:Si deseo actualizar el catalogo tiene un precio extra?
+respuesta_5:Si por cada nuevo articulo se cobra solo 5mn sea para PDF o WEB
+===========================================
+Info_general_contacto:puede contactarnos por el pedio que usted desea
+coordenadas:20.56795, -80.23456
+direccion:ave 56 #3517 e/ 35 y 37
+provincia:cienfuegos
+Email:3rtvpaket@gmail.com
+telefono:+53 52472074
+grupo_whatsapp:prueba a
+=========================================
+twitter:prueba a
+facebook:prueba a
+instagram:prueba a
+linkedIn:prueba a

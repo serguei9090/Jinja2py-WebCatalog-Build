@@ -1,0 +1,83 @@
+fav_icon-icono en la parte arriba de pestana-32x32
+apple_touch_icon-icono par apple touch
+-------
+tipo-series, doramas,novelas, etc
+nombre_negocio-nombre negocio
+----
+about_us_lema-el lema
+about_us-sobre nosotros
+about_us_2
+caracteristica_1,2,3-3 caracteristicas del negocio, tiempo, economia etc+
+----
+series_count-cantidad de series
+doramas_count
+novelas_count
+animes_count
+general_service_info-info general de servicios
+-----
+servicio_1
+servicios_info_1
+servicio_2
+servicios_info_2
+servicio_3
+servicios_info_3
+servicio_4
+servicios_info_4
+servicio_5
+servicios_info_5
+servicio_6
+servicios_info_6
+--
+call_to_action-llamada a accion
+call_to_action_info-llamada a accione info
+----------
+pricing_info-info general precios
+price_title_1
+price_1
+unidad_1-tiempo o unidad la cual especifica el precio
+price_serv_info_1_0-servicio incluido en el precio
+price_serv_info_1_1
+price_serv_info_1_2
+price_serv_info_1_3-no incluido
+price_serv_info_1_4-no incluido
+--------------
+price_title_2
+price_2
+unidad_2
+price_serv_info_2_1
+price_serv_info_2_2
+price_serv_info_2_3-
+price_serv_info_2_4-no incluido
+--------------
+price_title_3
+price_3
+unidad_3
+price_serv_info_3_1
+price_serv_info_3_2
+price_serv_info_3_3-
+price_serv_info_3_4-
+---------------------------------------------
+preguntas_info-preguntas frecuentes info general
+
+pregunta_1
+respuesta_1
+pregunta_2
+respuesta_2
+pregunta_3
+respuesta_3
+pregunta_4
+respuesta_4
+pregunta_5
+respuesta_5
+-----------------
+contacto_info
+direction-direccion
+email
+telefono
+WTAPP_group-grupo whatsapp
+provincia
+-------------
+twitter
+facebook
+instagram
+linkedIn

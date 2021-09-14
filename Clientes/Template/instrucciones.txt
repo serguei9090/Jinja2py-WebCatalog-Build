@@ -1,0 +1,3 @@
+en 01-ClientInfo rellenar el txt que le toca, y poner el icono de su negocio si lo tiene*logotipo convertido a .ico)
+en carpeta catalogo va la info del catalogo, si lo tiene organizado lo pone alli, si no manda el listado, la diferencia estara en el precio, nosotros generaremos el contenido, puede mandarnos solo el listado de sus novelas o series
+todo compartar en rar y enviarlo a cubamarket@gmail.com o serguei246@gmail.com

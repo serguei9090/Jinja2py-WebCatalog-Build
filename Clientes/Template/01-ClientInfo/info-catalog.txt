@@ -1,0 +1,33 @@
+Categoria:Novelas Turcas
+Nombre:Andy-PC
+=================================
+Total_Doramas:250
+Total_Novelas:500
+Total_Series:350
+Total_Animes:0
+=================================
+preguntas_freq_info:Respuesta a preguntas frecuentes
+pregunta_1:Las entregas de audiovisuales son el mismo dia?
+respuesta_1:Son de un dia para otro
+pregunta_2:En caso de que no vea lo que busco?
+respuesta_2:Contactenos y nosotros revisamos en las cosas nuevas que entran cada semana
+pregunta_3:En que traen la informacion?
+respuesta_3:la informacion la llevamos en una Memoria USB o Disco Duro
+pregunta_4:Puedo ir a buscar el pedido?
+respuesta_4:Si claro puede ir a buscar el pedido a Nuestro taller
+pregunta_5:Si deseo actualizar el catalogo tiene un precio extra?
+respuesta_5:Si por cada nuevo articulo se cobra solo 5mn sea para PDF o WEB
+===========================================
+Info_general_contacto:puede contactarnos por el pedio que usted desea
+coordenadas:0, 0
+direccion:Calzada Vieja de Guanabacoa e/ Álamo y Via Blanca #11a
+provincia:Guanabacoa
+Email:Na
+telefono:+53 55059340
+grupo_whatsapp:+53 55059340
+link_grupo_whatsapp:+53 55059340
+=========================================
+twitter:prueba a
+facebook:prueba a
+instagram:prueba a
+linkedIn:prueba a

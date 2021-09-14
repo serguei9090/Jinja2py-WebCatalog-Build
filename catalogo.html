@@ -1,0 +1,27 @@
+{% extends "index.html" %}
+{% block myitems %}
+{% for row in Nombre:  %}
+<!--   Ejemplo de estructura       -->
+<!--==============Start Item-{{item_number.0}}==================-->
+<div id="Item_{{row.item_number}}" class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0 result well"
+    data-aos="zoom-in" data-aos-delay="200">
+    <div class="card">
+        <img src="assets/catalog/{{item_img}}" style="width=225px height=225px" />
+        <div class="card-body">
+            <h4 class="title"><a>{{Nombre.0}}</a></h4>
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">{{Genero.0}}</li>
+                <li class="list-group-item">{{Pais.0}}</li>
+                <li class="list-group-item button">
+                    <button type="button" class="btn btn-primary" data-toggle="modal"
+                        data-target="#ItemModal-{{item_number}}">
+                        Descripción
+                    </button>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!--==============End Item-{{item_number.0}}==================-->
+{% endfor %}
+{% endblock %}
